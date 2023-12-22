@@ -1,7 +1,6 @@
 ---
 title: Introdução
 sidebar_position: 1
-slug: /
 ---
 
 ### [Sprint 1](sprint1/Análise%20de%20impacto%20ético/index.md) 
